@@ -1,0 +1,1 @@
+using employeeDetailService as service from '../../srv/service';
